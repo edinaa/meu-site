@@ -1,0 +1,44 @@
+  @charset "UTF-8";
+
+   <title>Dicas de Beleza</title>
+   <link rel = "stylesheet"href ="css/estilo.css">
+   <read>
+
+
+
+  body {
+    background-color: #dae4fe;
+    <div id= "interface">
+    <nav id="menu">
+    <ul align="center">
+
+      <li><a href="index.html">Home page</a></li>
+      <li><a href="meu site">Cuidando dos Cabelos</a></li>
+      <li><a href="meu site"> Maquiagem</a></li>
+      <li><a href="meu site">Cuidados  Pele</a></li>
+      <li><a href="meu site">Unhas</a></li>
+      <li><a href="meu site">home</a>Durma Bem</a></li>
+
+    </ul>
+    </nav>
+
+
+
+
+}
+
+h1 {
+
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+    background-color:
+}
+
+
+p {
+    font-family: "Arial";
+    font-size: 20px;
+}
